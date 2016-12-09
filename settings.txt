@@ -1,0 +1,4 @@
+# Enter the directory to search in - all .xls files here will be searched
+# Use a relative file path - .. to go up a directory, . to indicate current directory
+Data Folder = ../Data
+Ignore Case = true
