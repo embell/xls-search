@@ -9,11 +9,11 @@ This was made and tested on Windows. It was also made for personal convenience; 
 
 Setup
 -----
-To use, you'll need Ruby installed. 
+To use, you need Ruby installed. 
 
 Once you have Ruby, follow these steps for setup:
 1. Clone the project folder using git clone.
-2. Run 'bundle install' inside the folder if you're using Bundler. If not, run 'gem install ___' for each gem in the Gemfile
+2. Run _bundle install_ inside the folder if using Bundler. If not, run _gem install [name]_ for each gem in the Gemfile.
 
 How to use
 ----------
